@@ -24,6 +24,7 @@ $ vagrant ssh
         <tr>
             <th>Elixir</th>
             <th>Erlang</th>
+            <th>Go</th>
             <th>JavaScript</th>
             <th>Julia</th>
             <th>Lua</th>
@@ -34,6 +35,7 @@ $ vagrant ssh
         <tr>
             <td align="center"><a href="https://github.com/adlawson/dfs.ex">dfs.ex</a></td>
             <td align="center"><a href="https://github.com/adlawson/dfs.erl">dfs.erl</a></td>
+            <td align="center"><a href="https://github.com/adlawson/dfs.go">dfs.go</a></td>
             <td align="center">dfs.js</td>
             <td align="center"><a href="https://github.com/adlawson/dfs.jl">dfs.jl</a></td>
             <td align="center"><a href="https://github.com/adlawson/dfs.lua">dfs.lua</a></td>
@@ -42,6 +44,7 @@ $ vagrant ssh
         <tr>
             <td align="center"><a href="https://github.com/adlawson/bfs.ex">bfs.ex</a></td>
             <td align="center"><a href="https://github.com/adlawson/bfs.erl">bfs.erl</a></td>
+            <td align="center"><a href="https://github.com/adlawson/bfs.go">bfs.go</a></td>
             <td align="center"><a href="https://github.com/adlawson/bfs.js">bfs.js</a></td>
             <td align="center"><a href="https://github.com/adlawson/bfs.jl">bfs.jl</a></td>
             <td align="center"><a href="https://github.com/adlawson/bfs.lua">bfs.lua</a></td>
